@@ -48,7 +48,7 @@ export default function App() {
         
         {/* 01. Introduction - Anton */}
         <HorizontalSection 
-          image="/introduction.jpg.jpeg"
+          image="https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&q=80&w=2400"
           fontClass="font-display"
         >
           <motion.div
@@ -66,7 +66,7 @@ export default function App() {
 
         {/* 02. Volunteering - Playfair Display */}
         <HorizontalSection 
-          image="/volunteering.jpg.jpeg"
+          image="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&q=80&w=2400"
           fontClass="font-serif"
         >
           <motion.div
@@ -85,7 +85,7 @@ export default function App() {
 
         {/* 03. Kitchen - Space Grotesk */}
         <HorizontalSection 
-          image="/kitchen.png.jpeg"
+          image="https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&q=80&w=2400"
           fontClass="font-space"
         >
           <motion.div
@@ -104,7 +104,7 @@ export default function App() {
 
         {/* 04. Relaxation - Cormorant Garamond */}
         <HorizontalSection 
-          image="/relaxation.jpg.png"
+          image="https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&q=80&w=2400"
           fontClass="font-cormorant"
         >
           <motion.div
@@ -123,7 +123,7 @@ export default function App() {
 
         {/* 05. Volunteer Location - Syne */}
         <HorizontalSection 
-          image="/volunteer location.jpg"
+          image="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&q=80&w=2400"
           fontClass="font-syne"
         >
           <motion.div
